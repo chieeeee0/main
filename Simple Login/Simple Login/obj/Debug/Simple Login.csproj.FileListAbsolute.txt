@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\bin\Debug\Simple Login.exe.config
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\bin\Debug\Simple Login.exe
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\bin\Debug\Simple Login.pdb
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple Login.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.Registration.resources
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple Login.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple Login.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple Login.exe
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple Login.pdb
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.Login.resources
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.UserProfile.resources
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.ForgotPassword.resources
+C:\Users\Lenovo\Desktop\Simple Login\Simple Login\obj\Debug\Simple_Login.ChangePassword.resources
